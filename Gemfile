@@ -14,7 +14,7 @@ gem "jekyll", "~> 4.0.0"
 
 # This is the default theme for new Jekyll sites.
 # You may change this to anything you like.
-gem "ubuild-jekyll"
+# gem "ubuild-jekyll"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
